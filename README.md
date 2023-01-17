@@ -2,7 +2,7 @@ Hey! This is will be my first portfolio site will be iploading soon after learni
 
 For now I know
 
-Repl.it
-NodeJS
-Javascript
-Chalk
+1.Repl.it
+2.NodeJS
+3.Javascript
+4.Chalk
